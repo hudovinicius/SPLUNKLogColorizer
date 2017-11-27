@@ -2,10 +2,13 @@
 // @name         SPLUNKLogColorizer
 // @include      */app/search/show_source*
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       Hudo Salvador
+// @homepageURL  https://github.com/hudovinicius/SPLUNKLogColorizer
 // @grant        none
+// @updateUrl http://raw.githubusercontent.com/hudovinicius/SPLUNKLogColorizer/master/SPLUNKLogColorizer.js
+// @downloadUrl http://raw.githubusercontent.com/hudovinicius/SPLUNKLogColorizer/master/SPLUNKLogColorizer.js
 // ==/UserScript==
 
 (function() {
