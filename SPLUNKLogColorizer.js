@@ -8,7 +8,7 @@
 // @homepageURL  https://github.com/hudovinicius/SPLUNKLogColorizer
 // @grant        none
 // @updateUrl http://raw.githubusercontent.com/hudovinicius/SPLUNKLogColorizer/master/SPLUNKLogColorizer.js
-// @downloadUrl http://raw.githubusercontent.com/hudovinicius/SPLUNKLogColorizer/master/SPLUNKLogColorizer.js
+// @downloadUrl https://raw.githubusercontent.com/hudovinicius/SPLUNKLogColorizer/master/SPLUNKLogColorizer.js
 // ==/UserScript==
 
 (function() {
